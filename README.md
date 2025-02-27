@@ -1,6 +1,6 @@
 # Sesiones Pendientes: Salud Mental en España 
 
-Recorrido por la accesibilidad a **Atención Psicológica en España** a través de datos de fuentes oficiales e investigación independiente.
+Recorrido por la accesibilidad a **Profesionales de Psicología** en España a través de datos de fuentes oficiales e investigación independiente.
 
 ![Sesiones Pendientes Dashboard](Sesiones-Pendientes.png)
 
@@ -18,28 +18,29 @@ Se han recopilado datos de diversas fuentes para estudiar una posible relación 
 
 
 
-## **Objetivos del Proyecto**
-✓ Analizar la **brecha de acceso** a la atención psicológica en España.  
-✓ Identificar las **desigualdades entre comunidades autónomas**.  
-✓ Comparar **los precios de las sesiones** con los **ingresos promedio** de la población.  
-✓ Reflexionar sobre el **impacto de los salarios y disponibilidad de profesionales** en el acceso a la salud mental.
+## **Objetos de Análisis**
+✓ Posibles **brechas de acceso** a la atención psicológica en España.  
+✓ Identificar tendencias regionales y demográficas.  
+✓ Sector privado: tarifas por sesión y capacidad economica de la población.  
+✓ Psicología, psiquiatría y sanidad pública.
 
 ## **Principales Insights**
 
-📊 Importante **Brecha salarial** entre CC.AA. y entre hombres y mujeres.   
+📊 Importante **Brecha salarial** entre las CC.AA. y, a su vez, entre hombres y mujeres.   
 📊 **16 de 17 CC.AA. tienen menos psicólogos por cada 100k habitantes que la media.**   
-📊Madrid tiene casi **184 psicólogos por cada 100k habitantes (1º)**, mientras que algunas comunidades tienen menos de **30**.   
-📊 **83% de los encuestados** afirman que no pueden pagar más de 50€ por sesión, pero **ninguna comunidad autónoma** tiene una media de precios inferior a esa cantidad.    
-📊 **Canarias** es la comunidad con el **segundo salario más bajo** y el **segundo precio más alto** por sesión.    
-📊 La Rioja y Andalucía también presentan una correlación negativa salario-precio.  
-📊 **País Vasco** presenta la mejor correlación entre **salario medio alto** y **precio de sesión bajo**. 
+📊En la Comunidad de Madrid hay **184 psicólogos por cada 100k habitantes (1º)** | en otras comunidades hay menos de **30**.   
+📊 **83% de los encuestados** afirman que no podrían pagar más de 50€ por sesión, pero **ninguna CC.AA.** tiene una media de tarifas inferior a esa cantidad.    
+📊 **Canarias** es la comunidad con el **segundo salario más bajo** y la **segunda tarifa más alta** por sesión.    
+📊 La Rioja y Andalucía también presentan una correlación negativa entre salario medio y tarifas.  
+📊 **País Vasco** presenta la mejor correlación entre **salario medio alto** y **tarifa baja** por sesión. 
 
 
 
 ## **Tecnología**
 🔹 **Python** | ```pandas```, ```beautifulSoup```, ```csv```     
 🔹 **Power BI** | **DAX**   
-🔹 **Visual Studio**     
+🔹 **Visual Studio**   
+🔹 **Google Forms**
 🔹 **LibreOffice** 
 
 
@@ -61,7 +62,7 @@ Se han recopilado datos de diversas fuentes para estudiar una posible relación 
 ```bash
 git clone https://github.com/barrierj93/Sesiones-Pendientes.git
 ```
-2️⃣ **Abre el archivo en Power BI o Tableau**  
+2️⃣ **Abre el archivo en Power BI**  
 3️⃣ **Explora los datos y visualizaciones**  
 
 
