@@ -1,12 +1,12 @@
 # Sesiones Pendientes: Salud Mental en España 
 
-Un recorrido por la accesibilidad a **Atención Psicológica en España** a través de datos de fuentes oficiales e investigación independiente.
+Recorrido por la accesibilidad a **Atención Psicológica en España** a través de datos de fuentes oficiales e investigación independiente.
 
 ![Sesiones Pendientes Dashboard](Sesiones-Pendientes.png)
 
 ## **Descripción del Proyecto**
-Este proyecto es un **análisis exploratorio y visualización de datos** sobre la situación actual de la atención psicológica en España.  
-Se han recopilado datos de diversas fuentes para estudiar la relación entre los diversos factores socioculturales, demográficos, logístico-técnicos y económicos involucrados en la materia.
+**Análisis exploratorio y visualización de datos** sobre aspectos relativos a la situación actual del acceso útil a sesiones con profesionales de la psicología.  
+Se han recopilado datos de diversas fuentes para estudiar una posible relación entre factores socioculturales, demográficos, logístico-técnicos y económicos con el objeto de estudio.
 
 ## **Fuentes de Datos**
 
