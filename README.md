@@ -5,8 +5,8 @@ Recorrido por la accesibilidad a **Profesionales de Psicología** en España a t
 ![Sesiones Pendientes Dashboard](Sesiones-Pendientes.png)
 
 ## **Descripción del Proyecto**
-**Análisis exploratorio y visualización de datos** sobre aspectos relativos a la situación actual del acceso útil a sesiones con profesionales de la psicología.  
-Se han recopilado datos de diversas fuentes para estudiar una posible relación entre factores socioculturales, demográficos, logístico-técnicos y económicos con el objeto de estudio.
+**Análisis exploratorio y visualización de datos** sobre la situación actual del acceso útil a sesiones con psicólogos y psicólogas profesionales.
+Las fuentes son diversas con el fin de estudiar una posible relación entre factores socioculturales, demográficos, logístico-técnicos y económicos con el objeto de estudio.
 
 ## **Fuentes de Datos**
 
