@@ -16,8 +16,8 @@ https://forms.gle/Yt3oe2cL25EZcvhGA
 Este proyecto es un **análisis exploratorio y visualización de datos** sobre la situación actual de la atención psicológica en España.  
 Se han recopilado datos de diversas fuentes para estudiar la relación entre los diversos factores socioculturales, demográficos, logístico-técnicos y económicos involucrados en la materia.
 
-![alt text](./Report/estigmatizacion_salud_mental_slide.png)
-![alt text](./Report/accesibilidad_slide.png)
+![alt text](./Report/1.estigmatizacion_salud_mental_slide.png)
+![alt text](./Report/2.accesibilidad_slide.png)
 
 ## **Fuentes de Datos**
 
