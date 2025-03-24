@@ -3,15 +3,6 @@
 Recorrido por la accesibilidad a **Atención Psicológica en España** a través de datos de fuentes oficiales e investigación independiente.
 
 
-
-## **Participa en el estudio**
-Puedes colaborar con la muestra del estudio **participando en la Encuesta "Sesiones Pendientes"**
-
-Google Forms:
-https://forms.gle/Yt3oe2cL25EZcvhGA
-
-
-
 ## **Descripción del Proyecto**
 Este proyecto es un **análisis exploratorio y visualización de datos** sobre la situación actual de la atención psicológica en España.  
 Se han recopilado datos de diversas fuentes para estudiar la relación entre los diversos factores socioculturales, demográficos, logístico-técnicos y económicos involucrados en la materia.
