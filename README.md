@@ -71,23 +71,6 @@ Se han recopilado datos de diversas fuentes para estudiar la relación entre los
  ┗ 📄 Sesiones-Pendientes.png   # Imagen del Dashboard
 ```
 
-## **Descarga y Uso**
-1️⃣ **Clona el repositorio**  
-```bash
-git clone https://github.com/barrierj93/Sesiones-Pendientes.git
-```
-2️⃣ **Abre el archivo en Power BI o Tableau**  
-3️⃣ **Explora los datos y visualizaciones**  
-
 
 · Cualquier aporte es bienvenido ·
 
-
-
-
-
-
-## 🏛 **Licencia**
-📜 Este proyecto está bajo la **Licencia MIT** - Puedes usarlo libremente con atribución.
-
----
